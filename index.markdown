@@ -1,9 +1,7 @@
 ---
 layout: page
+title: Title
 ---
-
-Title
-=====
 
 Lorem ipsum dolor sit amet. Qui dolores nihil qui optio consequatur non dignissimos eligendi. Et nisi animi 33 cumque magni non quibusdam nobis! Aut modi voluptatem qui vero consectetur aut repellat quam eum corporis molestias.
 
