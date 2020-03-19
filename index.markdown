@@ -17,7 +17,8 @@ In the coming weeks we look forward to thinking and acting together to address t
 
 We're doing the following to assist members of our community at no charge.
 
-### "Crash course on working remote" - Open office hours
+### Open Office Hours
+_"Crash course on working remote"_
 
 Anyone can join us at **11:30-12:30 ET** by [videoconferencing on Jitsi](https://jitsi.hypha.coop/COVID19TorontoRemote) for the next three weeks to discuss collective solutions to challenges that arise when working remotely:
 
@@ -25,11 +26,13 @@ Anyone can join us at **11:30-12:30 ET** by [videoconferencing on Jitsi](https:/
 - Thu, March 26
 - Thu, April 2
 
-### Answer questions about remote work - 30 min 1-on-1s 
+### 30 min 1-on-1s
+_Answer questions about remote work_
 
 We are offering free 30 minute 1-on-1s to help strategize/address specific questions you have on transitioning to remote work, just email us at [hello@hypha.coop](mailto:hello@hypha.coop) to set up a time.
 
-### Use of our hosted videoconferencing infrastructure - Jitsi
+### Jitsi Videoconferencing
+_Use of our hosted videoconferencing infrastructure_
 
 See below for our descriptions of how we use [video conferencing](#videoconferencing) software.
 
@@ -39,12 +42,12 @@ Anyone is welcome to host a call on our Toronto-hosted Jitsi instance. All you n
 2. Type any name for a room (this will become part of the URL), or use the suggested one, and press "GO"
 3. Have your meeting!
 
-### "#COVID19Toronto Remote" - WhatsApp group
+### WhatsApp Discussion Group
+_Join our "#COVID19Toronto Remote" discussion group_
 
 We are hosting a WhatsApp discussion group `#COVID19Toronto Remote` for anyone working remotely (perhaps for the first time) to ask questions and share tips they've found.
 
-You can join using the following link: https://chat.whatsapp.com/KMZcdNhK00lJcm5JOGnf4q
-
+You can join using the following link: [https://chat.whatsapp.com/KMZcdNhK00lJcm5JOGnf4q](https://chat.whatsapp.com/KMZcdNhK00lJcm5JOGnf4q)
 
 ## Working Remote in a "Virtual Office"
 
