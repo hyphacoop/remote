@@ -61,7 +61,7 @@ Over time we have developed a number of practices to help our members collaborat
 
 We have found that having a single knowledge base for members to reference smooths coordination. Our [Hypha Organizational Handbook](https://handbook.hypha.coop/) describes how members get situated in our ["virtual office"](https://handbook.hypha.coop/onboarding.html) and the vision, processes, and culture of our cooperative. Our handbook also documents objectives for each of the working groups within our organization. 
 
-For day-to-day issue tracking and making sure we're making progress on our action items, we use a [GitHub task board](https://link.hypha.coop/tasks) (bascially a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board) with different columns to track the status of tasks). We use the same task template across all our issues which looks like this:
+For day-to-day issue tracking and making sure we're making progress on our action items, we use a [GitHub task board](https://link.hypha.coop/tasks) (basically a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board) with different columns to track the status of tasks). We use the same task template across all our issues which looks like this:
 ```
 Task Summary
 🎟️ Re-ticketed from: #
@@ -76,7 +76,7 @@ TODOs for members
 
 We have weekly meetings that all members attend. Having an established meeting template and knowing who is "cultivating" (i.e. chairing) and notetaking before the meeting begins, makes our time together a lot more efficient. [This is one of the meeting templates we use](https://github.com/hyphacoop/organizing/blob/master/-meeting-template.md) and you can find [our archived meeting notes here](https://meetings.hypha.coop).
 
-Working remote means that we lose some of the organic conversations that happen in a workplace. We usually start our team meetings with "personal check-ins" to make space for conversations that aren't strictly work related. The cultivator comes with a discussion prompt to start the personal check-ins. Some we have used in the past include "What was your first email address" and "What is your first memory of the internet".
+Working remote means that we lose some of the organic conversations that happen in a workplace. We usually start our team meetings with "personal check-ins" to make space for conversations that aren't strictly work related. The cultivator comes with a discussion prompt to start the personal check-ins. Some we have used in the past include "What was your first email address" and "What is your first memory of the Internet".
 
 Establishing a virtual office may require us to sign up to new digital services, which means we will be relying on more providers for our day-to-day operations. Don't forget to keep a [Services Inventory](https://link.hypha.coop/inventory) to keep track of what services exist, what they are used for, and who has access to each.
 
@@ -92,17 +92,16 @@ We also draw inspiration from other individuals and collectives:
 
 ### Software and Tools
 
-While deciding what software and tools to use, we have had to ask questions around privacy, lock-in, user experience, and demands on our time. We have highlighted some of our tool choices below. We host and manage some tools ourselves, these are marked with the 🍄 emoji below.
+While deciding what software and tools to use, we have had to ask questions around privacy, lock-in, user experience, and demands on our time. We have highlighted some of our tool choices below. We host and manage some tools ourselves, and have extensive experience with some others, these are marked with the 🍄 emoji below.
 
 #### Videoconferencing
 
-Videoconferencing software that is reliable and offers high quality audio and video (such as Zoom), is also often expensive and has a worse track record on privacy issues. Hypha uses Jitsi, which is a free and open source software for most of our videoconferencing needs. We host our own instance to ensure that it has enough bandwidth to support our day to day use. Jitsi works in the browser and also allows attendees to dial in, making it convenient for use while travelling.
-
+Videoconferencing software that is reliable and offers high quality audio and video (such as Zoom), is also often expensive and has a worse track record on privacy issues. Hypha uses Jitsi, which is a free and open source software for most of our videoconferencing needs. We host our own instance to ensure that it has enough bandwidth to support our day-to-day use. Jitsi works in the browser and also allows attendees to dial in, making it convenient for use while travelling.
 
 | Tools we've tried                             | Cost                                        | Ease of use                                                                                          | Remarks and concerns    |
 | -------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------- | --- |
 | [Jitsi](https://meet.jit.si/) 🍄 | Free                                        | Runs in the browser without needing to download another app. Hypha hosts our own Jitsi server.  | Audio and video quality is inferior to Zoom. Browser-based client can present connection issues, particularly if using Firefox. |
-| [BigBlueButton](https://bigbluebutton.org/) 🍄   | Free                           | Runs in the browser. Users can upload presentations to present. Collaborative tools like whiteboards, laser pointer, participant emoji/mood. |   Browser-based client can present connectivity issues. No official public servers.  |
+| [BigBlueButton](https://bigbluebutton.org/) 🍄 | Free                           | Runs in the browser. Users can upload presentations to present. Collaborative tools like whiteboards, laser pointer, participant emoji/mood. |   Browser-based client can present connectivity issues. No official public servers.  |
 | [Zoom](https://zoom.com)         | Free for 1-1 meetings or 40 min group calls | If reliability and high audio/video quality are your top concerns, Zoom is a great choice. It requires downloading an app but the process works well. Audio and video quality is high. | According to their [privacy policy](https://zoom.us/privacy), Zoom collects personal data including for advertisement purposes. Data is typically stored in the US. Zoom has a poor record of handling customer [privacy and security concerns](https://qz.com/work/1666535/cloudflare-turned-outage-into-teaching-point-about-transparency/).  |  
 | [Whereby](https://whereby.com)   | Free for personal use, but has room size limits                       | Runs in the browser and is easy to use.                                                                 |  In small meeting mode Whereby's communications work "peer to peer" and doesn't pass through their servers.   |
 
@@ -121,9 +120,9 @@ For meeting notes and jotting down quick ideas collaboratively we use [HackMD](h
 
 | Tools we've tried                             | Cost                                        | Ease of use                                                                                          | Remarks and concerns |
 | ------------------------------ | ------------------------------------------- | --------------------------------------------------------------------------------------------------- |-----|
-| [HackMD](https://hackmd.io)  | Free                                        | Great if you want a simple browser based note taking tool with support for [Markdown](https://www.markdownguide.org/cheat-sheet/). Works well with a working open philosophy. | Some familiarity with Markdown. |
+| [HackMD](https://hackmd.io) 🍄 | Free                                        | Great if you want a simple browser based note taking tool with support for [Markdown](https://www.markdownguide.org/cheat-sheet/). Works well with a working open philosophy. | Some familiarity with Markdown. |
+| [Google Docs](https://docs.google.com) 🍄 | Free with a Google account                | Works well for more intensive collaborative writing, copy editing, and proofing in the browser. | Unclear permission settings.
 | [Riseup Pad](https://pad.riseup.net)       | Free | Similar to HackMD. Good for collaborative notetaking in the browser.        |   - |
-| [Google Docs](https://docs.google.com) | Free with a Google account                | Works well for more intensive collaborative writing, copy editing, and proofing in the browser. | Unclear permission settings.
 
 Other notetaking tools:
 - [Roam Research](https://roamresearch.com/) for personal notes
@@ -131,12 +130,12 @@ Other notetaking tools:
 
 #### Task Management
 
-We use GitHub's built in project management tools to track tasks since we also use GitHub for version control. If you're already using GitHub, this may be something you'd want to consider. But if you are a first time remote worker you might face a steeper learning curve with GitHub especially if you aren't familiar with version control and source management. 
+We use GitHub's built-in project management tools to track tasks since we also use GitHub for version control. If you're already using GitHub, this may be something you'd want to consider. But if you are a first time remote worker you might face a steeper learning curve with GitHub especially if you aren't familiar with version control and source management. Trello would be a better standalone option.
 
 | Tools we've tried                             | Cost                                        | Ease of use                                                                                          | Remarks and concerns  |
 | ------------------------------ | ------------------------------------------- | --------------------------------------------------------------------------------------------------- |-------| 
+| [GitHub Projects](https://github.com/features/project-management/) 🍄 | Free for public projects or small private projects  | Good if you use GitHub for its other features as well, such as version management. |  Owned by Microsoft. |
 | [Trello](https://trello.com/)   | Free for standard features | Very easy to use. |  -   |
-| [GitHub Projects](https://github.com/features/project-management/)  | Free for public projects or small private projects  | Good if you use GitHub for its other features as well, such as version management. |  Owned by Microsoft. |
 
 #### Decision Making
 
@@ -146,10 +145,9 @@ We make most of our decisions face-to-face during videoconferencing calls. But s
 | ------------------------------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------ | -------- |
 | [Loomio](https://www.loomio.org/) 🍄 | Free |Easy to use once you're familiar with all the facilitation and discussion tools. |     Free software that can be self hosted.     |
 
-
 #### Chat
 
-Chat is where most of our daily discussion happens. At times when it's heavily used it can be overwhelming to keep up with messages. It's important for us that chat tools have good notification settings so that we can configure for ourselves what messages grab our attention. Chat applications like Matrix and Slack also allow you to have different rooms or channels for keeping conversations separated by topic.
+Chat is where most of our day-to-day discussion happens. At times when it's heavily used it can be overwhelming to keep up with messages. It's important for us that chat tools have good notification settings so that we can configure for ourselves what messages grab our attention. Chat applications like Matrix and Slack also allow you to have different rooms or channels for keeping conversations separated by topic.
 
 | Tools we've tried                                | Cost | Ease of use                                                                                                                           | Remarks and concerns  |
 | --------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------- | -------- |
@@ -160,14 +158,13 @@ Chat is where most of our daily discussion happens. At times when it's heavily u
 
 #### Scheduling Time Together
 
-Coordinating when we're all available for a meeting or an event can take up a lot of time. We've found the best way is to set regular meetingtimes from beforehand. In other instances when we have to schedule time together, we use When2Meet to find time slots where our availabilities overlap.
+Coordinating when we're all available for a meeting or an event can take up a lot of time. We've found the best way is to set regular meeting times beforehand. In other instances when we have to schedule time together, we use When2Meet to find time slots where our availabilities overlap.
 
 | Tools we've tried                                                 | Cost                       | Ease of use                                  | Remarks and concerns                                            |
 | -------------------------------------------------- | -------------------------- | -------------------------------------------- | -------------------------------------------------- |
 | [Google Calendar](https://www.google.com/calendar) 🍄 | Free with a Google account | Easy to use. Easy to create shared calendars. | -                                                   |
 | [When2Meet](https://when2meet.com)  🍄                | Free                       | Easy to use.                                  | Minimal interface with no third-party integrations. |
 | [Calendly](https://calendly.com)                                                 | Free                           | Easy to use with third-party integrations.                                             | -                                                   |
-
 
 Others scheduling tools:
 
@@ -185,10 +182,9 @@ Since we use Google Docs for collaborating on project proposals and other docume
 | [Box](https://www.box.com/)              | Free (Individual, 10 GB) |   -          |                                  |
 | [Dropbox](https://www.dropbox.com/)      | Free (Basic, 2 GB) | -            | Minimal storage for free accounts. |
 
-
 #### Virtual Events
 
-Members at Hypha has some experience hosting webinars, running interactive virtual sessions, and setting up livestreams for events. If this is something you want to learn more about, email us at hello@hypha.coop. 
+Members at Hypha have some experience hosting webinars, running interactive virtual sessions, and setting up livestreams for events. If this is something you want to learn more about, email us at [hello@hypha.coop](mailto:hello@hypha.coop).
 
 Virtual event tools:
 
