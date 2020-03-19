@@ -26,8 +26,8 @@ UID:{{ post.date | date: "%Y%m%d" }}@hypha.coop
 ORGANIZER;CN="Hypha Worker Co-operative":MAILTO:{{ site.email }}
 LOCATION:{{ post.location }}
 SUMMARY:{{ post.title }}
-URL:{{ post.url|strip | prepend: site.url }}
-DESCRIPTION;ALTREP="{{ post.text|strip }} \n\nFor details, link here: {{ post.url|strip | prepend: site.url }}":{{ post.text|strip }} \n\nFor details, link here: {{ post.url|strip | prepend: site.url }}
+URL:{{ site.url }}
+DESCRIPTION;ALTREP="{{ post.text | strip }}":{{ post.text | strip }}
 DTSTART;TZID=America/Toronto:{{ post.date | date: "%Y%m%d" }}T{{ post.startTime | date:"%H%M%S" }}
 DTEND;TZID=America/Toronto:{{ post.date | date: "%Y%m%d" }}T{{ post.endTime | date:"%H%M%S" }}
 DTSTAMP:{{ post.date | date: "%Y%m%d" }}T{{ post.date | date:"%H%M%S" }}
