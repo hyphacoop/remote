@@ -5,50 +5,51 @@ lang: en
 title-display: EN
 ---
 
-Like others in the Great Lakes region and Toronto, we've been closely monitoring the Novel Coronavirus 2019 situation via [Toronto Public Health](https://www.toronto.ca/community-people/health-wellness-care/diseases-medications-vaccines/coronavirus/) and [Ontario Ministry of Health](https://www.ontario.ca/page/2019-novel-coronavirus). With the pace the situation has evolved since the World Health Organization [declared COVID-19 a pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020) on March 11, we can assume that things will continue to change rapidly in the weeks ahead.
+Like others in the Great Lakes region and Toronto, we've been closely monitoring the Novel Coronavirus 2019 situation via [Toronto Public Health](https://www.toronto.ca/community-people/health-wellness-care/diseases-medications-vaccines/coronavirus/) and [Ontario Ministry of Health](https://www.ontario.ca/page/2019-novel-coronavirus).
+With the pace the situation has evolved since the World Health Organization [declared COVID-19 a pandemic](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020) on March 11, we can assume that things will continue to change rapidly in the weeks ahead.
 
-As a remote-first worker co-operative, Hypha has been discussing how to navigate this situation both internally, as member-owners, and externally, as community members, when expressions of solidarity and mutual aid more needed than ever. We're currently heeding the advice from public health officials and medical professionals on [social distancing](https://hub.jhu.edu/2020/03/13/what-is-social-distancing/) and [self-isolation](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html). However that doesn't substantially prepare us to approach this pandemic at the community level. As an initial gesture, however small, we've prepared this guide with offers of help to share our experience working remotely for those of you transitioning to remote work. We recognize this doesn't address the broader concerns about whose work can transition to remote, what economic insecurity many Canadian workers are facing, or how service and gig workers are now being forced to move into front line health positions on top of their existing responsibilities. In the coming weeks we look forward to thinking and acting together to address these and other pressing issues more fully.
-
-```
-Announcement/message to mutual aid/solidarity in Toronto
-```
+As a remote-first worker co-operative, Hypha has been discussing how to navigate this situation both internally, as member-owners, and externally, as community members, when expressions of solidarity and mutual aid are more needed than ever.
+We're currently heeding the advice from public health officials and medical professionals on [social distancing](https://hub.jhu.edu/2020/03/13/what-is-social-distancing/) and [self-isolation](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html).
+However that doesn't substantially prepare us to approach this pandemic at the community level.
+As an initial gesture, however small, we've prepared this guide with offers of help to share our experience working remotely for those of you transitioning to remote work.
+We recognize this doesn't address the broader concerns about whose work can transition to remote, what economic insecurity many Canadian workers are facing, or how service and gig workers are now being forced to move into front line health positions on top of their existing responsibilities.
+In the coming weeks we look forward to thinking and acting together to address these and other pressing issues more fully.
 
 ## How Hypha Can Help 
 
 We're doing the following to assist members of our community at no charge.
 
-### "Crash course on working remote" - Open office hours
+### Open Office Hours
+_"Crash course on working remote"_
 
-Anyone can join us on Thursdays @ 11:30-12:30 ET for the next three weeks to discuss collective solutions to challenges that arise when working remotely:
+Anyone can join us at **11:30-12:30 ET** by [videoconferencing on Jitsi](https://jitsi.hypha.coop/COVID19TorontoRemote) for the next three weeks to discuss collective solutions to challenges that arise when working remotely:
 
-- March 20
-- March 26
-- April 2
+- Fri, March 20
+- Thu, March 26
+- Thu, April 2
 
-```
-Make ical entries <-- can take code from ournetworks for this
-```
+### 30 min 1-on-1s
+_Answer questions about remote work_
 
-### Answer questions about remote work - 30 min 1-on-1s 
+We are offering free 30 minute 1-on-1s to help strategize/address specific questions you have on transitioning to remote work, just email us at [hello@hypha.coop](mailto:hello@hypha.coop) to set up a time.
 
-We are offering free 30 minute 1-on-1s to help strategize/address specific questions you have on transitioning to remote, just email us at hello@hypha.coop to set up a time.
+### Jitsi Videoconferencing
+_Use of our hosted videoconferencing infrastructure_
 
-### Use of our hosted videoconferencing infrastructure - Jitsi
+See below for our descriptions of how we use [video conferencing](#videoconferencing) software.
 
-See below for our descriptions of how we use [video conferencing](#) software.
+Anyone is welcome to host a call on our Toronto-hosted Jitsi instance. All you need to do to use it is:
 
-Anyone is welcome to host a call on our Toronto-hosted [Jitsi instance](https://jitsi.hypha.coop/): [https://jitsi.hypha.coop/](https://jitsi.hypha.coop/). All you need to do to use it is:
-
-1. Visit [https://jitsi.hypha.coop/](https://jitsi.hypha.coop/) in your browser
+1. Visit [https://jitsi.hypha.coop](https://jitsi.hypha.coop) in your browser
 2. Type any name for a room (this will become part of the URL), or use the suggested one, and press "GO"
-3. Have your meeting! 
+3. Have your meeting!
 
-### "#COVID19Toronto Remote" - WhatsApp group
+### WhatsApp Discussion Group
+_Join our "#COVID19Toronto Remote" discussion group_
 
-We are hosting a WhatsApp discussion group "#COVID19Toronto Remote" for anyone working remotely (perhaps for the first time) to ask questions and share tips they've found.
+We are hosting a WhatsApp discussion group `#COVID19Toronto Remote` for anyone working remotely (perhaps for the first time) to ask questions and share tips they've found.
 
-You can join using the following link: https://chat.whatsapp.com/KMZcdNhK00lJcm5JOGnf4q
-
+You can join using the following link: [https://chat.whatsapp.com/KMZcdNhK00lJcm5JOGnf4q](https://chat.whatsapp.com/KMZcdNhK00lJcm5JOGnf4q)
 
 ## Working Remote in a "Virtual Office"
 
