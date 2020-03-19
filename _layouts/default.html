@@ -7,13 +7,15 @@
 
     {%- include header.html -%}
 
+    <div class="toc-container">
+      <div id="toc" class="js-toc"></div>
+    </div>
+
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>
     </main>
-
-    <div class="js-toc"></div>
 
     {%- include footer.html -%}
 
