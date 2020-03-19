@@ -28,6 +28,8 @@ Anyone can join us at **11:30-12:30 ET** by [videoconferencing on Jitsi](https:/
 - Thu, March 26
 - Thu, April 2
 
+[Add these dates to your calendar.](events.ics)
+
 ### 30 min 1-on-1s
 _Answer questions about remote work_
 
@@ -194,13 +196,4 @@ Virtual event tools:
 
 ## Contributing to this Guide
 
-We welcome improvements to this guide. There are a few key ways you can help us improve our projects, read our [contributor guidelines](#) to find out how to [Submit feedback, requests, and bugs as well as code and documentation changes](#).
-
-
-```
-two things to add to repo:
-1. Contributing.md  with guidelines, would use EDGI's as guide: https://github.com/edgi-govdata-archiving/overview/blob/master/CONTRIBUTING.md
-
-2. ISSUE TEMPLATES for two "types" of feedback.
-```
-
+We welcome improvements to this guide. There are a few key ways you can help us improve our projects, read our [contributor guidelines](#) to find out how to [submit feedback, requests, and bugs as well as code and documentation changes](#).
