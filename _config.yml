@@ -34,6 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
+future: true # for events set in the future to show up
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
