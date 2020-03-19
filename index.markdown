@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Solidarity for Workers during the COVID-19 Pandemic
+lang: en
+title-display: EN
 ---
 
 Like others in the Great Lakes region and Toronto, we've been closely monitoring the Novel Coronavirus 2019 situation via [Toronto Public Health](https://www.toronto.ca/community-people/health-wellness-care/diseases-medications-vaccines/coronavirus/) and [Ontario Ministry of Health](https://www.ontario.ca/page/2019-novel-coronavirus).
