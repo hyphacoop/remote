@@ -1,4 +1,10 @@
-# Contributing Guidelines
+---
+layout: page
+title: Contributing Guidelines
+lang: en
+---
+
+_Contributing Guidelines from [Environmental Data and Governance Initiative (EDGI)](https://envirodatagov.org/)._
 
 We love improvements to our tools! There are a few key ways you can help us improve our projects:
 
