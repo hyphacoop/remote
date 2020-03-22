@@ -31,9 +31,9 @@ Anyone can join us at **11:30-12:30 ET** by [videoconferencing on Jitsi](https:/
 [Add these dates to your calendar.](events.ics)
 
 ### 30 min 1-on-1s
-_Answer questions about remote work_
+_Get answers to your questions about remote work_
 
-We are offering free 30 minute 1-on-1s to help strategize/address specific questions you have on transitioning to remote work, just email us at [hello@hypha.coop](mailto:hello@hypha.coop) to set up a time.
+We are offering free 30 minute 1-on-1s to help strategize/address specific questions you have on transitioning to remote work. Just email us at [hello@hypha.coop](mailto:hello@hypha.coop) to set up a time.
 
 ### Jitsi Videoconferencing
 _Use of our hosted videoconferencing infrastructure_
