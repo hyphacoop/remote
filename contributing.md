@@ -10,7 +10,6 @@ _Contributing Guidelines adopted from [Environmental Data and Governance Initiat
 
 Our process for submitting feedback, feature requests, and reporting bugs usually begins by opening [GitHub issues](https://help.github.com/articles/about-issues/). Each project repository generally maintains its own set of issues:
 
-        https://github.com/hyphacoop/<repository-name>/issues
 
 ### Submitting Code and Documentation Changes
 
