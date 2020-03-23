@@ -16,7 +16,7 @@ Our process for accepting changes operates by [Pull Request (PR)](https://help.g
 
 1.  If you haven't submitted anything before, and you aren't (yet!) a member of our organization, **fork and clone** the repo:
 
-        $ git clone git@github.com:<your-username>/<repository-name>.git
+        $ git clone git@github.com:<your-username>/remote.git
 
     Organization members should clone the upsteam repo, instead of working from a personal fork:
 
@@ -41,4 +41,3 @@ Our process for accepting changes operates by [Pull Request (PR)](https://help.g
     - Allow up to 3 days for review. If you don’t get any feedback by then, you can merge it without review.
 
 1.  Once you have integrated comments, or waited for feedback, a member should merge your changes in.
-
