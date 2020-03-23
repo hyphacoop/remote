@@ -193,4 +193,4 @@ Virtual event tools:
 
 ## Contributing to this Guide
 
-We welcome improvements to this guide. There are a few key ways you can help us improve our projects, read our [contributor guidelines](contributing) to find out how to [submit feedback, requests, and bugs as well as code and documentation changes](https://github.com/hyphacoop/remote).
+We welcome improvements to this guide. There are a few key ways you can help us improve our projects, read our [contributor guidelines](contributing) to find out how to submit feedback, requests, and bug reports as well as code and documentation changes to our [code repository](https://github.com/hyphacoop/remote).
