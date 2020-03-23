@@ -20,7 +20,7 @@ Our process for accepting changes operates by [Pull Request (PR)](https://help.g
 
     Organization members should clone the upsteam repo, instead of working from a personal fork:
 
-        $ git clone git@github.com:hyphacoop/<repository-name>.git
+        $ git clone git@github.com:hyphacoop/remote.git
 
 1.  Create a **new branch** for the changes you want to work on. Choose a topic for your branch name that reflects the change:
 
