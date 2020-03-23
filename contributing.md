@@ -36,8 +36,6 @@ Our process for accepting changes operates by [Pull Request (PR)](https://help.g
 
     In general, we do our best to provide some feedback or review within about 3 days. (And hopefully much quicker most of the time!)
     
-    If you have commit rights on the repo, you should merge your own PR, but have someone else review it first:
-    
-    - Allow up to 3 days for review. If you don’t get any feedback by then, you can merge it without review.
+    If you have commit rights on the repo, you should merge your own PR, but have someone else review it first. Allow up to 3 days for review. If you don’t get any feedback by then, you can merge it without review.
 
 1.  Once you have integrated comments, or waited for feedback, a member should merge your changes in.
