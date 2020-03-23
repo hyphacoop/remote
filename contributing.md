@@ -4,6 +4,8 @@ title: Contributing Guidelines
 lang: en
 ---
 
+_Contributing Guidelines adopted from [Environmental Data and Governance Initiative (EDGI)](https://envirodatagov.org/)._
+
 ### Submitting Feedback, Requests, and Bugs
 Our process for submitting feedback, feature requests, and reporting bugs usually begins by opening [GitHub issues](https://help.github.com/articles/about-issues/). Each project repository generally maintains its own set of issues:
 
