@@ -2,7 +2,6 @@
 layout: page
 title: Contributing Guidelines
 lang: en
-title-display: EN
 ---
 
 ### Submitting Feedback, Requests, and Bugs
