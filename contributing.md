@@ -7,7 +7,6 @@ lang: en
 _Contributing Guidelines adopted from [Environmental Data and Governance Initiative (EDGI)](https://envirodatagov.org/)._
 
 ### Submitting Feedback, Requests, and Bugs
-
 This resource accepts feedback, feature requests, and bug reports by opening [GitHub issues](https://github.com/hyphacoop/remote/issues).
 
 
