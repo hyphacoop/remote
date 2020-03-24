@@ -73,12 +73,39 @@ $on-laptop:        800px !default;
 
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: "WorkSans";
+  font-family: "WorkSans";
 }
 
 .site-header,
 .site-footer {
   border-color: $brand-color;
+}
+
+
+// Wrapper positioning
+
+.page-content {
+  @media (min-width: 960px) {
+    display: flex;
+  }
+  &:before {
+    content: '';
+    display: flex;
+    min-width: 260px;
+
+    @media (max-width: 960px) {
+      display: none;
+    }
+  }
+  &:after {
+    content: '';
+    display: flex;
+    flex-basis: 260px;
+
+    @media (max-width: 960px) {
+      display: none;
+    }
+  }
 }
 
 // Table of Contents
@@ -100,7 +127,7 @@ h1, h2, h3, h4, h5, h6 {
     list-style: none;
   }
 
-  @media (max-width: 1200px){
+  @media (max-width: 960px){
     display: none;
   }
 }
