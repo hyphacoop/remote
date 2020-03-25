@@ -91,7 +91,7 @@ We also draw inspiration from other individuals and collectives:
 - [Patterns for decentralized organizing](https://www.thehum.org/patterns) captures collaborative practices curated from a number of decentralized teams
 - If this is the first time you're holding virtual meetings, [these eight tips from TechSoup](https://blog.techsoup.org/posts/8-tips-for-holding-virtual-meetings-during-the-covid-19-pandemic) are an excellent place to start
 - [Dr. Danna Young](https://twitter.com/dannagal) has tweeted [a cheatsheet for giving presentations on Zoom](https://twitter.com/dannagal/status/1237474786844041217)
-- If you're looking to transition your in-person trainings to virtual ones or [Tessa Collective has tips](https://www.tesacollective.com/6-tips-and-tools-for-turning-your-in-person-trainings-to-virtual-trainings-in-the-age-of-coronavirus/) for how to keep your sessions interactive and engaging
+- If you're looking to transition your in-person trainings to virtual ones, [Tessa Collective has tips](https://www.tesacollective.com/6-tips-and-tools-for-turning-your-in-person-trainings-to-virtual-trainings-in-the-age-of-coronavirus/) for how to keep your sessions interactive and engaging
 
 ### Software and Tools
 
