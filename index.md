@@ -61,7 +61,7 @@ Over time we have developed a number of practices to help our members collaborat
 
 We have found that having a single knowledge base for members to reference smooths coordination. Our [Hypha Organizational Handbook](https://handbook.hypha.coop/) describes how members get situated in our ["virtual office"](https://handbook.hypha.coop/onboarding.html) and the vision, processes, and culture of our cooperative. Our handbook also documents objectives for each of the working groups within our organization. 
 
-For day-to-day issue tracking and making sure we're making progress on our action items, we use a [GitHub task board](https://link.hypha.coop/tasks) (basically a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board) with different columns to track the status of tasks). We use the same task template across all our issues which looks like this:
+For day-to-day task tracking and making sure we're making progress on them, we use a [GitHub task board](https://link.hypha.coop/tasks) (basically a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board) with different columns to track the status of tasks). We use the same task template across all our issues which looks like this:
 ```
 Task Summary
 🎟️ Re-ticketed from: #
@@ -134,7 +134,7 @@ We use GitHub's built-in project management tools to track tasks since we also u
 
 | Tools we've tried                             | Cost                                        | Ease of use                                                                                          | Remarks and concerns  |
 | ------------------------------ | ------------------------------------------- | --------------------------------------------------------------------------------------------------- |-------| 
-| [GitHub Projects](https://github.com/features/project-management/) 🍄 | Free for public projects or small private projects  | Good if you use GitHub for its other features as well, such as version management. |  Owned by Microsoft. |
+| [GitHub Projects](https://github.com/features/project-management/) 🍄 | Free for public projects or small private projects  | Good if you use GitHub for its other features as well, such as version control. |  Owned by Microsoft. |
 | [Trello](https://trello.com/)   | Free for standard features | Very easy to use. |  -   |
 
 #### Decision Making
@@ -163,8 +163,8 @@ Coordinating when we're all available for a meeting or an event can take up a lo
 | Tools we've tried                                                 | Cost                       | Ease of use                                  | Remarks and concerns                                            |
 | -------------------------------------------------- | -------------------------- | -------------------------------------------- | -------------------------------------------------- |
 | [Google Calendar](https://www.google.com/calendar) 🍄 | Free with a Google account | Easy to use. Easy to create shared calendars. | -                                                   |
-| [When2Meet](https://when2meet.com)  🍄                | Free                       | Easy to use.                                  | Minimal interface with no third-party integrations. |
-| [Calendly](https://calendly.com)                                                 | Free                           | Easy to use with third-party integrations.                                             | -                                                   |
+| [When2Meet](https://when2meet.com)  🍄                | Free                       | Easy to use.                                  | Minimal interface with no external service integrations. |
+| [Calendly](https://calendly.com)                                                 | Free                           | Easy to use with external service integrations.                                             | -                                                   |
 
 Others scheduling tools:
 
@@ -184,7 +184,7 @@ Since we use Google Docs for collaborating on project proposals and other docume
 
 #### Virtual Events
 
-Members at Hypha have some experience hosting webinars, running interactive virtual sessions, and setting up livestreams for events. If this is something you want to learn more about, email us at [hello@hypha.coop](mailto:hello@hypha.coop).
+Members at Hypha have some experience hosting webinars, facilitating interactive virtual sessions, and setting up livestreams for events. If this is something you want to learn more about, email us at [hello@hypha.coop](mailto:hello@hypha.coop).
 
 Virtual event tools:
 
