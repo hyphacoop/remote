@@ -21,8 +21,6 @@ _"Curso intensivo sobre cómo trabajar a distancia"_
 
 Cualquiera puede ponerse en contacto con nosotrxs por [videoconferencia en Jitsi](https://jitsi.hypha.coop/COVID19TorontoRemote) durante las próximas tres semanas a las **11:30-12:30 ET** (17:30-18:30 zona horaria de Madrid) para debatir soluciones colectivas a los desafíos que surgen cuando se trabaja a distancia:
 
-
-
 - Viernes 20 de Marzo
 - Jueves 26 de Marzo
 - Jueves 2 de Abril
@@ -34,7 +32,6 @@ Cualquiera puede ponerse en contacto con nosotrxs por [videoconferencia en Jitsi
 _Obtén respuesta a tus dudas sobre trabajar a distancia_
 
 Ofrecemos 30 minutos 1 a 1 gratis para ayudarte a elaborar estrategias / abordar preguntas específicas que tengas sobre la transición a trabajar a distancia. Envíanos un correo electrónico a [hello@hypha.coop](mailto:hello@hypha.coop) y buscaremos una fecha para la cita.
-
 
 ### Videoconferencia en Jitsi
 _Usa nuestra infraestructura de videoconferencia auto-alojada_
