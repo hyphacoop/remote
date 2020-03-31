@@ -87,8 +87,11 @@ We also draw inspiration from other individuals and collectives:
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">After working from home for the past 6 years, some basics I&#39;d recommend if it&#39;s your first time... <br><br>1/Don&#39;t work at the kitchen table or at the couch. Get a desk that&#39;s ergonomic and put it somewhere not in your bedroom (sorry roomies, the living room is now also an office!)</p>&mdash; Karissa McKelvey (@okdistribute) <a href="https://twitter.com/okdistribute/status/1238532496779653120?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-- [18F’s best practices for making distributed teams work](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/)
+- 18F shares [best practices for making distributed teams work](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/)
 - [Patterns for decentralized organizing](https://www.thehum.org/patterns) captures collaborative practices curated from a number of decentralized teams
+- If this is the first time you're holding virtual meetings, [these eight tips from TechSoup](https://blog.techsoup.org/posts/8-tips-for-holding-virtual-meetings-during-the-covid-19-pandemic) are an excellent place to start
+- [Dr. Danna Young](https://twitter.com/dannagal) has tweeted [a cheatsheet for giving presentations on Zoom](https://twitter.com/dannagal/status/1237474786844041217)
+- If you're looking to transition your in-person trainings to virtual ones, [Tessa Collective has tips](https://www.tesacollective.com/6-tips-and-tools-for-turning-your-in-person-trainings-to-virtual-trainings-in-the-age-of-coronavirus/) for how to keep your sessions interactive and engaging
 
 ### Software and Tools
 
@@ -108,10 +111,6 @@ Videoconferencing software that is reliable and offers high quality audio and vi
 Other popular videoconferencing tools:
 - [Skype](https://www.skype.com/en/)
 - [Google Hangouts](https://hangouts.google.com/)
-
-Other helpful links:
-* [A cheatsheet for giving presentations on Zoom](https://twitter.com/dannagal/status/1237474786844041217) courtesy [Dr. Danna Young](https://twitter.com/dannagal)
-
 
 #### Notetaking and Wordprocessing
 
