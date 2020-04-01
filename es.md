@@ -95,8 +95,11 @@ También nos inspiramos en otras personas y colectivos:
     >
     > _— Karissa McKelvey (@okdistribute) [March 13, 2020](https://twitter.com/okdistribute/status/1238532496779653120?ref_src=twsrc%5Etfw)_
 
-- [La mejores prácticas de 18F para hacer que los equipos distribuidos funcionen](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/)
-- "[Patrones para la organización descentralizada](https://www.thehum.org/patterns)" plasma prácticas colaborativas seleccionadas de varios equipos de trabajo descentralizados
+- 18F comparte [sus mejores prácticas para hacer que los equipos distribuidos funcionen](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/)
+- [Patrones para la organización descentralizada](https://www.thehum.org/patterns) recoge una selección de prácticas colaborativas procedentes de varios equipos de trabajo descentralizados
+- Si eres principiante en mantener reuniones virtuales, [estos ocho consejos de TechSoup](https://blog.techsoup.org/posts/8-tips-for-holding-virtual-meetings-during-the-covid-19-pandemic) son un sitio excelente para empezar
+- [Dr. Danna Young](https://twitter.com/dannagal) ha tuiteado [una chuleta para hacer presentaciones en Zoom](https://twitter.com/dannagal/status/1237474786844041217)
+- Si estás planeando transformar tus sesiones de formación en persona a formato virtual, [Tessa Collective tiene unos consejos](https://www.tesacollective.com/6-tips-and-tools-for-turning-your-in-person-trainings-to-virtual-trainings-in-the-age-of-coronavirus/) para mantener tus sesiones interactivas y interesantes
 
 ### Programas y Herramientas
 
@@ -117,10 +120,6 @@ Un programa de videoconferencia que sea fiable y que ofrezca video y audio de al
 Otras herramientas populares de videconferencia:
 - [Skype](https://www.skype.com/es/)
 - [Google Hangouts](https://hangouts.google.com/)
-
-Otros enlaces útiles:
-* [Una chuleta para hacer presentaciones en Zoom](https://twitter.com/dannagal/status/1237474786844041217) cortesía de [Dr. Danna Young](https://twitter.com/dannagal)
-
 
 #### Toma de Apuntes y Procesado de textos
 
