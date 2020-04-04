@@ -47,7 +47,7 @@ Invitamos a todo el mundo a hacer llamadas usando nuestra instancia de Jitsi alo
 ### Grupo de Debate de WhatsApp
 _Únete a nuestro grupo de debate "#COVID19Toronto Remote"_
 
-Organizamos un grupo de discusión en WhatsApp, `#COVID19Toronto Remote`, para cualquiera que trabaje a distancia (quizá por primera vez) para que pregunte y comparta consejos que haya encontrado.
+Organizamos un grupo de debate en WhatsApp, `#COVID19Toronto Remote`, para cualquiera que trabaje a distancia (quizá por primera vez) para que pregunte y comparta consejos que haya encontrado.
 
 Puedes unirte usando el siguiente enlace: [https://chat.whatsapp.com/KMZcdNhK00lJcm5JOGnf4q](https://chat.whatsapp.com/KMZcdNhK00lJcm5JOGnf4q)
 
@@ -97,7 +97,7 @@ También nos inspiramos en otras personas y colectivos:
 
 - 18F comparte [sus mejores prácticas para hacer que los equipos distribuidos funcionen](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/)
 - [Patrones para la organización descentralizada](https://www.thehum.org/patterns) recoge una selección de prácticas colaborativas procedentes de varios equipos de trabajo descentralizados
-- Si eres principiante en mantener reuniones virtuales, [estos ocho consejos de TechSoup](https://blog.techsoup.org/posts/8-tips-for-holding-virtual-meetings-during-the-covid-19-pandemic) son un sitio excelente para empezar
+- Si eres principiante en mantener reuniones virtuales, [estos ocho consejos de TechSoup](https://blog.techsoup.org/posts/8-tips-for-holding-virtual-meetings-during-the-covid-19-pandemic) son un excelente punto de partida
 - [Dr. Danna Young](https://twitter.com/dannagal) ha tuiteado [una chuleta para hacer presentaciones en Zoom](https://twitter.com/dannagal/status/1237474786844041217)
 - Si estás planeando transformar tus sesiones de formación en persona a formato virtual, [Tessa Collective tiene unos consejos](https://www.tesacollective.com/6-tips-and-tools-for-turning-your-in-person-trainings-to-virtual-trainings-in-the-age-of-coronavirus/) para mantener tus sesiones interactivas y interesantes
 
@@ -166,11 +166,11 @@ El chat es donde tienen lugar la mayoría de nuestros debates diarios. En ocasio
 | [Matrix](https://matrix.org) 🍄   | Gratis | La aplicación web [Riot](https://riot.im/app/#/welcome) para Matrix funciona en el navegador o puede descargarse para móvil/ordenador. Excelente para salas grandes con muchos usuarixs.  | Muchas notificaciones por defecto. El cifrado de extremo a extremo no es fluido. Los mensajes pueden ser federados a otros servidores.    |
 | [Signal](https://signal.org/es/) 🍄   | Gratis  | Chats seguros 1 a 1 y para grupos. Privacidad en mente. No tan popular como WhatsApp.                                                                    | Requiere de un número de teléfono operativo. |
 | [WhatsApp](https://whatsapp.com/) |  Gratis | Fácil de usar para mensajes de texto y chats de grupo. Popular en Toronto.                                                                            | Propiedad de Facebook. Requiere de un número de teléfono operativo.        |
-| [Slack](https://slack.com/intl/es-es/?eu_nc=1)                                  | Gratis (10,000 mensajes más recientes)    | Fácil de usar para chats de grupo.                                                                                                                                     | La cuenta gratuita tiene límites de historial, almacenamiento de archivos y "aplicaciones de tercerxs".         |
+| [Slack](https://slack.com/intl/es-es/?eu_nc=1)                                  | Gratis (10,000 mensajes más recientes)    | Fácil de usar para chats de grupo.                                                                                                                                     | La cuenta gratuita tiene límites de historial, almacenamiento de archivos y "aplicaciones externas".         |
 
 #### Programar Tiempo Juntos
 
-Coordinar la disponibilidad de todxs para reunirnos o para un evento puede llevar mucho tiempo. Hemos descubierdo que la mejor forma es programar de antemano reuniones periódicas. En otras ocasiones que tenemos que programar tiempo juntxs, usamos When2Meet para encontrar los espacios de tiempo donde nuestras disponibilidades coinciden.
+Coordinar la disponibilidad de todxs para reunirnos o para un evento puede llevar mucho tiempo. Hemos descubierdo que la mejor forma es programar de antemano reuniones periódicas. En otras ocasiones en que tenemos que programar tiempo juntxs, usamos When2Meet para encontrar los espacios de tiempo donde nuestras disponibilidades coinciden.
 
 | Herramientas que hemos probado                                                | Coste                       | Facilidad de uso                                 | Observaciones y Problemas                                            |
 | -------------------------------------------------- | -------------------------- | -------------------------------------------- | -------------------------------------------------- |
@@ -183,7 +183,7 @@ Otras herramientas para programar horarios:
 - [Doodle](https://doodle.com)
 - [Zvite](https://zvite.co)
 
-#### Almacenamiento y Uso Compartido de Archivos
+#### Almacenamiento y Uso Colaborativo de Archivos
 
 Ya que usamos Google Docs para colaborar en propuestas de proyectos y otros documentos que requieren rondas de revisiones, Google Drive se ha convertido en el sitio natural para almacenar nuestros documentos.
 
