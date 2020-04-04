@@ -51,7 +51,7 @@ Organizamos un grupo de debate en WhatsApp, `#COVID19Toronto Remote`, para cualq
 
 Puedes unirte usando el siguiente enlace: [https://chat.whatsapp.com/KMZcdNhK00lJcm5JOGnf4q](https://chat.whatsapp.com/KMZcdNhK00lJcm5JOGnf4q)
 
-## Trabajar a Distancia en una "Oficina Virtual"
+## Trabajar en una "Oficina Virtual"
 
 Con el tiempo, hemos desarrollado una serie de prácticas para ayudar a nuestros miembros a colaborar eficazmente en línea. Compartimos nuestras prácticas y herramientas aquí con la expectativa de que la gente pueda encontrar este recurso útil al considerar cómo trabajar desde casa durante la pandemia actual.
 
@@ -121,7 +121,7 @@ Otras herramientas populares de videconferencia:
 - [Skype](https://www.skype.com/es/)
 - [Google Hangouts](https://hangouts.google.com/)
 
-#### Toma de Apuntes y Procesado de textos
+#### Tomar Notas y Procesar Textos
 
 Para tomar actas en las reuniones y apuntar ideas rápidas de forma colaborativa usamos [HackMD](https://hackmd.io) como editor de texto ligero en el navegador. Si eliges usar HackMD (o etherpad), asegúrate de estar al tanto de quién tiene [permisos de lectura y escritura en el bloc de notas](https://hackmd.io/c/tutorials/%2Fs%2Finvite). Los blocs de notas de HackMD no están listados por defecto, pero no son privados, es decir, cualquiera que tenga la URL podrá verlos.
 
@@ -183,7 +183,7 @@ Otras herramientas para programar horarios:
 - [Doodle](https://doodle.com)
 - [Zvite](https://zvite.co)
 
-#### Almacenamiento y Uso Colaborativo de Archivos
+#### Almacenar y Compatir Archivos
 
 Ya que usamos Google Docs para colaborar en propuestas de proyectos y otros documentos que requieren rondas de revisiones, Google Drive se ha convertido en el sitio natural para almacenar nuestros documentos.
 
