@@ -114,7 +114,7 @@ Videoconferencing software that is reliable and offers high quality audio and vi
 Other popular videoconferencing tools:
 - [Skype](https://www.skype.com/en/)
 - [Google Hangouts](https://hangouts.google.com/)
-- Many more compared in this [Videoconferencing Guide](https://videoconferencing.guide/
+- Many more compared in this [Videoconferencing Guide](https://videoconferencing.guide/) or in Mozilla Foundation's [review of video apps privacy and security](https://foundation.mozilla.org/en/privacynotincluded/categories/video-call-apps/)
 
 #### Notetaking and Wordprocessing
 
