@@ -5,7 +5,7 @@ lang: es
 title-display: ES
 ---
 
-_Traducido por [@llunaCreixent](https://github.com/llunaCreixent/)._
+_Traducido por [@llunaCreixent](https://github.com/llunaCreixent/) y [@fadelkon](https://github.com/fadelkon/)._
 
 Como otra gente de la región de los Grandes Lagos y Toronto, hemos estado siguiendo de cerca la situación del Nuevo Coronavirus de 2019 a través de [Salud Pública de Toronto](https://www.toronto.ca/community-people/health-wellness-care/diseases-medications-vaccines/coronavirus/) y del [Ministerio de Salud de Ontario](https://www.ontario.ca/page/2019-novel-coronavirus). Con el ritmo con el que la situación ha evolucionado desde el 11 de Marzo, cuando la Organización Mundial de la Salud [declaró el COVID-19 como una pandemia](https://www.who.int/es/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020), podemos asumir que continuará cambiando rápido durante las próximas semanas.
 
@@ -100,6 +100,9 @@ También nos inspiramos en otras personas y colectivos:
 - Si eres principiante en mantener reuniones virtuales, [estos ocho consejos de TechSoup](https://blog.techsoup.org/posts/8-tips-for-holding-virtual-meetings-during-the-covid-19-pandemic) son un excelente punto de partida
 - [Dr. Danna Young](https://twitter.com/dannagal) ha tuiteado [una chuleta para hacer presentaciones en Zoom](https://twitter.com/dannagal/status/1237474786844041217)
 - Si estás planeando transformar tus sesiones de formación en persona a formato virtual, [Tessa Collective tiene unos consejos](https://www.tesacollective.com/6-tips-and-tools-for-turning-your-in-person-trainings-to-virtual-trainings-in-the-age-of-coronavirus/) para mantener tus sesiones interactivas y interesantes
+- "And Also Too", formado en Toronto, tiene una guía sobre [métodos de trabajo remoto centrados en los cuidados](https://www.andalsotoo.net/2020/03/17/care-based-approaches-to-remote-work/) donde se hace énfasis en el apoyo y la seguridad desde la perspectiva de la accesibilidad
+- Para reuniones internas, Loomio y Co-operatives First nos ofrecen una visión sobre [cómo hacer una asamblea general virtual](https://help.loomio.org/en/guides/virtual_agm/) y sobre [asambleas generales y distancia social](https://cooperativesfirst.com/blog/2020/03/26/agms-and-social-distancing/)
+- La ACM ("Association for Computing Machinery") tiene una guía entera dedicada a eventos de mayor escala, nombrada [Virtual Conferences: A Guide to Best Practices](https://docs.google.com/document/d/1XsGDOHzBhY9S-D4Smp2p9JgqdI0umZ0IZVi7Nhm0gYg/edit#)
 
 ### Programas y Herramientas
 
@@ -120,6 +123,7 @@ Un programa de videoconferencia que sea fiable y que ofrezca video y audio de al
 Otras herramientas populares de videconferencia:
 - [Skype](https://www.skype.com/es/)
 - [Google Hangouts](https://hangouts.google.com/)
+- Muchas más en la comparativa [Videoconferencing Guide](https://videoconferencing.guide/) o en la de la Fundación Mozilla, [Video Call Apps](https://foundation.mozilla.org/es/privacynotincluded/categories/video-call-apps/)
 
 #### Tomar Notas y Procesar Textos
 

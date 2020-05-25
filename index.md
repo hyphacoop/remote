@@ -92,7 +92,7 @@ We also draw inspiration from other individuals and collectives:
 - If this is the first time you're holding virtual meetings, [these eight tips from TechSoup](https://blog.techsoup.org/posts/8-tips-for-holding-virtual-meetings-during-the-covid-19-pandemic) are an excellent place to start
 - [Dr. Danna Young](https://twitter.com/dannagal) has tweeted [a cheatsheet for giving presentations on Zoom](https://twitter.com/dannagal/status/1237474786844041217)
 - If you're looking to transition your in-person trainings to virtual ones, [Tessa Collective has tips](https://www.tesacollective.com/6-tips-and-tools-for-turning-your-in-person-trainings-to-virtual-trainings-in-the-age-of-coronavirus/) for how to keep your sessions interactive and engaging
-- Also Too, formed in Toronto, has a guide on [Care-based approaches to remote work](https://www.andalsotoo.net/2020/03/17/care-based-approaches-to-remote-work/) with an emphasis on support and safety through the lens of accessibility and disability
+- And Also Too, formed in Toronto, has a guide on [Care-based approaches to remote work](https://www.andalsotoo.net/2020/03/17/care-based-approaches-to-remote-work/) with an emphasis on support and safety through the lens of accessibility and disability
 - For internal meetings, Loomio and Co-operatives First offer insight into [AGMs and Social Distancing](https://cooperativesfirst.com/blog/2020/03/26/agms-and-social-distancing/) and [How to run a virtual AGM](https://help.loomio.org/en/guides/virtual_agm/)
 - ACM (Association for Computing Machinery) has a thorough overview for larger scale events on [Virtual Conferences: A Guide to Best Practices](https://docs.google.com/document/d/1XsGDOHzBhY9S-D4Smp2p9JgqdI0umZ0IZVi7Nhm0gYg/edit#)
 
