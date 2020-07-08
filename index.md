@@ -15,6 +15,9 @@ As an initial gesture, however small, we've prepared this guide with offers of h
 We recognize this doesn't address the broader concerns about whose work can transition to remote, what economic insecurity many Canadian workers are facing, or how service and gig workers are now being forced to move into front line health positions on top of their existing responsibilities.
 In the coming weeks we look forward to thinking and acting together to address these and other pressing issues more fully.
 
+If you would like to support our work, you can [make a donation through our Open Collective](https://opencollective.com/hyphacoop/donate).
+Donations allow us to support people transitioning to remote work and cover costs associated with maintaining shared infrastructure. 
+
 ## How Hypha Can Help 
 
 We're doing the following to assist members of our community at no charge.
