@@ -16,7 +16,7 @@ We recognize this doesn't address the broader concerns about whose work can tran
 In the coming weeks we look forward to thinking and acting together to address these and other pressing issues more fully.
 
 If you would like to support our work, you can [make a donation through our Open Collective](https://opencollective.com/hyphacoop/donate).
-This will help us continue supporting people in their transition to remote work and cover the costs of maintaining shared infrastructure. 
+Donations allow us to support people transitioning to remote work and cover costs associated with maintaining shared infrastructure. 
 
 ## How Hypha Can Help 
 
