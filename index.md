@@ -25,7 +25,7 @@ We're doing the following to assist members of our community at no charge.
 ### Open Office Hours
 _"Crash course on working remote"_
 
-Anyone can join us at **11:30-12:30 ET** by [videoconferencing on Jitsi](https://jitsi.hypha.coop/COVID19TorontoRemote) for the next three weeks to discuss collective solutions to challenges that arise when working remotely:
+Anyone can join us at **11:30-12:30 ET** by videoconferencing for the next three weeks to discuss collective solutions to challenges that arise when working remotely:
 
 - Fri, March 20
 - Thu, March 26
@@ -37,17 +37,6 @@ Anyone can join us at **11:30-12:30 ET** by [videoconferencing on Jitsi](https:/
 _Get answers to your questions about remote work_
 
 We are offering free 30 minute 1-on-1s to help strategize/address specific questions you have on transitioning to remote work. Just email us at [hello@hypha.coop](mailto:hello@hypha.coop) to set up a time.
-
-### Jitsi Videoconferencing
-_Use of our hosted videoconferencing infrastructure_
-
-See below for our descriptions of how we use [video conferencing](#videoconferencing) software.
-
-Anyone is welcome to host a call on our Toronto-hosted Jitsi instance. All you need to do to use it is:
-
-1. Visit [https://jitsi.hypha.coop](https://jitsi.hypha.coop) in your browser
-2. Type any name for a room (this will become part of the URL), or use the suggested one, and press "GO"
-3. Have your meeting!
 
 ### WhatsApp Discussion Group
 _Join our "#COVID19Toronto Remote" discussion group_
@@ -105,11 +94,11 @@ While deciding what software and tools to use, we have had to ask questions arou
 
 #### Videoconferencing
 
-Videoconferencing software that is reliable and offers high quality audio and video (such as Zoom), is also often expensive and has a worse track record on privacy issues. Hypha uses Jitsi, which is a free and open source software for most of our videoconferencing needs. We host our own instance to ensure that it has enough bandwidth to support our day-to-day use. Jitsi works in the browser and also allows attendees to dial in, making it convenient for use while travelling.
+Videoconferencing software that is reliable and offers high quality audio and video (such as Zoom), is also often expensive and has a worse track record on privacy issues. Hypha uses BigBlueButton, which is a free and open source software for most of our videoconferencing needs. We host our own instance to ensure that it has enough bandwidth to support our day-to-day use. BigBlueButton works in the browser and also allows attendees to dial in, making it convenient for use while travelling.
 
 | Tools we've tried                             | Cost                                        | Ease of use                                                                                          | Remarks and concerns    |
 | -------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------- | --- |
-| [Jitsi](https://meet.jit.si/) 🍄 | Free                                        | Runs in the browser without needing to download another app. Hypha hosts our own Jitsi server.  | Audio and video quality is inferior to Zoom. Browser-based client can present connection issues, particularly if using Firefox. On Safari, there is no video support and the audio does not work reliably. Mobile applications work well on Android and iOS. |
+| [Jitsi](https://meet.jit.si/) 🍄 | Free                                        | Runs in the browser without needing to download another app.  | Audio and video quality is inferior to Zoom. Browser-based client can present connection issues, particularly if using Firefox. On Safari, there is no video support and the audio does not work reliably. Mobile applications work well on Android and iOS. |
 | [BigBlueButton](https://bigbluebutton.org/) 🍄 | Free                           | Runs in the browser. Users can upload presentations to present. Collaborative tools like whiteboards, laser pointer, participant emoji/mood. | Browser-based client works well on desktop and mobile browsers. Good audio quality. Easily scalable to 10+ callers, routinely used up to 50 callers and there are examples involving larger groups. No official public servers.  |
 | [Zoom](https://zoom.com)         | Free for 1-1 meetings or 40 min group calls | If reliability and high audio/video quality are your top concerns, Zoom is a great choice. It requires downloading an app but the process works well. Audio and video quality is high. | According to their [privacy policy](https://zoom.us/privacy), Zoom collects personal data including for advertisement purposes. Data is typically stored in the US. Zoom has a poor record of handling customer [privacy and security concerns](https://qz.com/work/1666535/cloudflare-turned-outage-into-teaching-point-about-transparency/).  |  
 | [Whereby](https://whereby.com)   | Free for personal use, but has room size limits                       | Runs in the browser and is easy to use.                                                                 |  In small meeting mode Whereby's communications work "peer to peer" and doesn't pass through their servers.   |
